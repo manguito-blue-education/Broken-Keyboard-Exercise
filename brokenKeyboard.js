@@ -1,4 +1,4 @@
-function findBrokenKeys(str1, str2) {
+function findBrokenKeys(originalString, malfunctioningKeyboardString) {
   /* Your amazing code here 🚀 */
 }
 
